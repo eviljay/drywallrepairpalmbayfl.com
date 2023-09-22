@@ -1,0 +1,15 @@
+User-agent: AhrefsBot
+Crawl-Delay: 20
+
+User-agent: MJ12bot
+Crawl-Delay: 20
+
+User-agent: *
+
+Disallow: https://www.drywallrepairpalmbayfl.com/thank-you.html
+
+Disallow: https://www.drywallrepairpalmbayfl.com/privacy.html
+
+Disallow: https://www.drywallrepairpalmbayfl.com/terms.html
+
+Sitemap: https://www.drywallrepairpalmbayfl.com/sitemap.xml
